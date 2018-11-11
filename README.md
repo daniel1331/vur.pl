@@ -1,0 +1,2 @@
+# vur.pl
+Saldiri
